@@ -24,7 +24,6 @@ class ViewController: UIViewController {
             greetingLabel.isHidden ? "Show" : "Hide",
             for: .normal
         )
-        
     }
     
 }
